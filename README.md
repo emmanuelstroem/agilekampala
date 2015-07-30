@@ -1,4 +1,4 @@
-# Geek Night Kampala
+# Agile Kampala Meetup
 
 # Development
 
