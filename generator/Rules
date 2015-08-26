@@ -48,7 +48,7 @@ route '*' do
   if item.binary?
     item.identifier.chop
   else
-    start_date.strftime('/%b%Y.html').downcase
+    start_date.strftime('/%d%b%Y.html').downcase
   end
 end
 
