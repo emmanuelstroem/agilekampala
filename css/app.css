@@ -3652,7 +3652,7 @@ button, .button {
   #intro .logo img {
     display: inline-block;
     margin: 0 auto;
-    height: 2em;
+    height: 6em;
     -webkit-animation: bounceInLeft 1s 0s ease both;
     -moz-animation: bounceInLeft 1s 0s ease both;
     -ms-animation: bounceInLeft 1s 0s ease both;
